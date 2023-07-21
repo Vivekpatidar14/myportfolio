@@ -40,6 +40,7 @@ const Experience = () => {
           </div>
         </div>
       </section>
+    
     </>
   );
 };
