@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.c446f0e6.css",
+    "main.js": "/myportfolio/static/js/main.2b0ec85e.js",
+    "static/media/vivek.jpg": "/myportfolio/static/media/vivek.0c324512ed61e601a9fa.jpg",
+    "static/media/img4.png": "/myportfolio/static/media/img4.b7ab094c629146682f6a.png",
+    "static/media/img2.png": "/myportfolio/static/media/img2.585661d07c437e1930d4.png",
+    "static/media/vivek_resume.pdf": "/myportfolio/static/media/vivek_resume.9c52db8659933905f918.pdf",
+    "index.html": "/myportfolio/index.html",
+    "main.c446f0e6.css.map": "/myportfolio/static/css/main.c446f0e6.css.map",
+    "main.2b0ec85e.js.map": "/myportfolio/static/js/main.2b0ec85e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c446f0e6.css",
+    "static/js/main.2b0ec85e.js"
+  ]
+}
